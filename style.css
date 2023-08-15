@@ -5,6 +5,6 @@ nav li {text-transform: uppercase; list-style: none; display: inline; margin-lef
 nav a {color:#fcceed; text-decoration: none; text-align:center; display: inline}
 nav a:hover{text-decoration: underline; font-size: 28px; transition: 0.5s;}
 body {background-color: #ea3efa; text-align: center; font-size: 18px; position: absolute; top: 90px; bottom: 90px; font-family: 'Itim', cursive;}
-main {background-color: #fc8ded; margin-bottom: 100px;}
-h1 {text-align: center; background-color:#bd2fb6; color: #37173b;} 
+main {background-color: #fc8ded; margin-bottom: 100px; text-align: center;}
+iframe {text-align: center}
 #lista01 {display:inline-block; text-align: center;}
