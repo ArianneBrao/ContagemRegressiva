@@ -4,9 +4,7 @@ footer {position: fixed;bottom: 0px; left: 0px;right: 0px; text-align: center;}
 nav li {text-transform: uppercase; list-style: none; display: inline; margin-left: 10px; text-align: center;}
 nav a {color:#fcceed; text-decoration: none; text-align:center; display: inline}
 nav a:hover{text-decoration: underline; font-size: 28px; transition: 0.5s;}
-body {background-color: #ea3efa; text-align: justify; font-size: 18px; position: absolute; top: 90px; bottom: 90px; font-family: 'Itim', cursive;}
+body {background-color: #ea3efa; text-align: center; font-size: 18px; position: absolute; top: 90px; bottom: 90px; font-family: 'Itim', cursive;}
 main {background-color: #fc8ded; margin-bottom: 100px;}
 h1 {text-align: center; background-color:#bd2fb6; color: #37173b;} 
-h2 {text-align: justify; color: #7a1f72;}
-.primeirasemana {text-align: justify; font-size: 18px; border: black solid 2px; padding: 10px; margin: 10px;}
 #lista01 {display:inline-block; text-align: center;}
